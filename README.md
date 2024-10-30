@@ -1,5 +1,6 @@
 # Color Vs Background Color
 
+This is example is how mine turned out at the top
 ![alt text](image.png)
 
 # Text Styling
